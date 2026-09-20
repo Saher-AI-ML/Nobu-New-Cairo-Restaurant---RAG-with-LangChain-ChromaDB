@@ -1,3 +1,4 @@
+<img width="1894" height="772" alt="Restaurant Interface" src="https://github.com/user-attachments/assets/9523c75c-0bed-486c-ae35-ca4cd4db4d15" />
 # Nobu New Cairo Restaurant Q&A — RAG with LangChain & ChromaDB
 
 A Retrieval-Augmented Generation (RAG) chatbot that answers questions about **Nobu New Cairo** restaurant using only content scraped from its own data — no hallucinated menu items or made-up opening hours. Built with LangChain, ChromaDB, and a Gradio chat UI, and designed to run in Google Colab.
