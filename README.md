@@ -1,4 +1,5 @@
-<img width="1894" height="772" alt="Restaurant Interface" src="https://github.com/user-attachments/assets/313596b4-35e3-4904-95ad-5970db89fe1d" />
+<img width="1907" height="773" alt="Restaurant Interface" src="https://github.com/user-attachments/assets/dd15cc3b-b284-4282-bb0e-d6a86133f3cc" />
+
 
 # Nobu New Cairo Restaurant Q&A — RAG with LangChain & ChromaDB
 
